@@ -7,3 +7,8 @@ Soon a script that will test every single code, assuming each code tested in 1 s
 
 # I take no responsibility for the use of the file, it is only for educational purposes
 
+# GeneratoreCodiciInstagram.py --> Python algorithm to generate possible code
+
+# TwoFactorBypass.py --> Censured algorithm to test every single code
+
+# I censured the code because is only for educational purpose, and don't know the risk of take it run
